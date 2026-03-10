@@ -4,5 +4,5 @@ Challenge proposto pela Alura na qual, deve ser feita a análise dos dados de qu
 # Base das análises
 Foram fornecidos pela Alura os dados
 
-# Resultados obtidos
+# Final
 Os resultados obtidos estão descritos no relatório final e nos gráficos.
